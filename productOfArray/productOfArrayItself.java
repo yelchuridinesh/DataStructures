@@ -34,8 +34,7 @@ import java.util.*;
         int[]res = product.productExceptSelf(nums);
         for(int result : res){
             System.out.println("The value of res is :"+ result);
-        }
-        
+        }    
     }
     
 }
