@@ -36,6 +36,5 @@ import java.util.*;
          int[][]grid = {{1,3,1},{1,5,1},{4,2,1}};
          int res = mps.minPathSum(grid);
          System.out.println(res);
-
      }
 }

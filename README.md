@@ -5,3 +5,4 @@
 4)Daily Temperatures : LeetCode 739
 5) minimumTimeToMakeRopeColourful : Leetcode 1578
 6) Minimum Path Sum -: Leetcode 64
+7)  Generate paranthesis -: Leetcode 22
