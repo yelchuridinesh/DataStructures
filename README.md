@@ -8,3 +8,5 @@
 7)  Generate paranthesis -: Leetcode 22
 8)  Winning a TIC-TAC-TOE game -: LeetCode 1275
 9)  CarFleet -LeetCode 858
+10) JumpGame -LeetCode 55
+11) JumpGame2 - LeetCode 45
