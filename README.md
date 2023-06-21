@@ -12,3 +12,5 @@
 11) JumpGame2 - LeetCode 45
 12) spiralMatrix -: LeetCode 54
 13) spiralMatrix2 -: Leetcode 59
+14) TwoSum -: LeetCode 1
+15) ThreeSum -: LeetCode 15
